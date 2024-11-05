@@ -1,0 +1,24 @@
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\My Compilator.exe.config
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\My Compilator.exe
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\My Compilator.pdb
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\obj\Debug\My Compilator.csproj.AssemblyReference.cache
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\obj\Debug\My Compilator.csproj.CoreCompileInputs.cache
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\obj\Debug\My Compilator.exe
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\obj\Debug\My Compilator.pdb
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\nunit.framework.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.Buffers.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.Memory.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.ValueTuple.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\nunit.framework.xml
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.Buffers.xml
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.Memory.xml
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\bin\Debug\System.ValueTuple.xml
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 3\My Compilator\My Compilator\obj\Debug\My Compi.2457A275.Up2Date
