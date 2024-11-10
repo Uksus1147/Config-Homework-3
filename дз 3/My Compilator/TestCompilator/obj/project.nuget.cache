@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XNlFVVRN0W4ZKKmP7ck36ArlwsxVnINT7VARjXiTgoCNRhMKX3e+UCk/yW6kAF1FLRD1CFuV2IeD7hnVq77lGA==",
+  "dgSpecHash": "eEHenO4sV3cvNqD+Z4Y0OMid8HZ6GLUwpOx7VuJfBgBVimiixd+zEPrRKqSWNJC7caNry4VMOnd7SqgO2WPRkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\TestCompilator\\TestCompilator.csproj",
+  "projectFilePath": "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\TestCompilator\\TestCompilator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Уксус147\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Уксус147\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

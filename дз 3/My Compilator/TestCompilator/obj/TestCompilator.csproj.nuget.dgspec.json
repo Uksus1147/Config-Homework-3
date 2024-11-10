@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\TestCompilator\\TestCompilator.csproj": {}
+    "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\TestCompilator\\TestCompilator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\My Compilator\\My Compilator.csproj": {
+    "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\My Compilator\\My Compilator.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\My Compilator\\My Compilator.csproj",
+        "projectUniqueName": "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\My Compilator\\My Compilator.csproj",
         "projectName": "My Compilator",
-        "projectPath": "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\My Compilator\\My Compilator.csproj",
+        "projectPath": "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\My Compilator\\My Compilator.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\TestCompilator\\TestCompilator.csproj": {
+    "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\TestCompilator\\TestCompilator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\TestCompilator\\TestCompilator.csproj",
+        "projectUniqueName": "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\TestCompilator\\TestCompilator.csproj",
         "projectName": "TestCompilator",
-        "projectPath": "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\TestCompilator\\TestCompilator.csproj",
+        "projectPath": "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\TestCompilator\\TestCompilator.csproj",
         "packagesPath": "C:\\Users\\Уксус147\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\TestCompilator\\obj\\",
+        "outputPath": "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\TestCompilator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Уксус147\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,8 +43,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\My Compilator\\My Compilator.csproj": {
-                "projectPath": "C:\\Users\\Уксус147\\Desktop\\уник\\2 курс\\конфигурационное управление\\дз 3\\My Compilator\\My Compilator\\My Compilator.csproj"
+              "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\My Compilator\\My Compilator.csproj": {
+                "projectPath": "C:\\Users\\Уксус147\\Documents\\GitHub\\Config-Homework-3\\дз 3\\My Compilator\\My Compilator\\My Compilator.csproj"
               }
             }
           }

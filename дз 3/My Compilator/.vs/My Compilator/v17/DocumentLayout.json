@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 3\\My Compilator\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-3\\\u0434\u0437 3\\My Compilator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B967569-293D-4DCA-853B-B9F16CF6E300}|My Compilator\\My Compilator.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 3\\My Compilator\\my compilator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B967569-293D-4DCA-853B-B9F16CF6E300}|My Compilator\\My Compilator.csproj|c:\\users\\\u0443\u043A\u0441\u0443\u0441147\\documents\\github\\config-homework-3\\\u0434\u0437 3\\my compilator\\my compilator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B967569-293D-4DCA-853B-B9F16CF6E300}|My Compilator\\My Compilator.csproj|solutionrelative:my compilator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{199D28FA-9D87-4F6E-88C5-1EBD92789F84}|TestCompilator\\TestCompilator.csproj|c:\\users\\\u0443\u043A\u0441\u0443\u0441147\\desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 3\\my compilator\\testcompilator\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{199D28FA-9D87-4F6E-88C5-1EBD92789F84}|TestCompilator\\TestCompilator.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-3\\\u0434\u0437 3\\My Compilator\\testcompilator\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199D28FA-9D87-4F6E-88C5-1EBD92789F84}|TestCompilator\\TestCompilator.csproj|solutionrelative:testcompilator\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B967569-293D-4DCA-853B-B9F16CF6E300}|My Compilator\\My Compilator.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 3\\My Compilator\\my compilator\\input.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3B967569-293D-4DCA-853B-B9F16CF6E300}|My Compilator\\My Compilator.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-3\\\u0434\u0437 3\\My Compilator\\my compilator\\input.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3B967569-293D-4DCA-853B-B9F16CF6E300}|My Compilator\\My Compilator.csproj|solutionrelative:my compilator\\input.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -28,22 +28,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 3\\My Compilator\\TestCompilator\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-3\\\u0434\u0437 3\\My Compilator\\TestCompilator\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestCompilator\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 3\\My Compilator\\TestCompilator\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-3\\\u0434\u0437 3\\My Compilator\\TestCompilator\\UnitTest1.cs",
               "RelativeToolTip": "TestCompilator\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T22:21:17.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T22:21:17.884Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "input.xml",
-              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 3\\My Compilator\\My Compilator\\input.xml",
+              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-3\\\u0434\u0437 3\\My Compilator\\My Compilator\\input.xml",
               "RelativeDocumentMoniker": "My Compilator\\input.xml",
-              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 3\\My Compilator\\My Compilator\\input.xml",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-3\\\u0434\u0437 3\\My Compilator\\My Compilator\\input.xml",
               "RelativeToolTip": "My Compilator\\input.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
@@ -53,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 3\\My Compilator\\My Compilator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-3\\\u0434\u0437 3\\My Compilator\\My Compilator\\Program.cs",
               "RelativeDocumentMoniker": "My Compilator\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 3\\My Compilator\\My Compilator\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-3\\\u0434\u0437 3\\My Compilator\\My Compilator\\Program.cs",
               "RelativeToolTip": "My Compilator\\Program.cs",
-              "ViewState": "AQIAAI4AAAAAAAAAAAAYwJoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T21:51:31.643Z",
               "EditorCaption": ""

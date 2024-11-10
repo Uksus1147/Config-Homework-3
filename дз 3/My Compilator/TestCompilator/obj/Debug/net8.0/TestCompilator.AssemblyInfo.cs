@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestCompilator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0da4dac1cdb41cd908e39519f1be1d18731fcd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestCompilator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestCompilator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
